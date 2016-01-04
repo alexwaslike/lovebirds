@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 1827651db37a12d4f8a39fbe9561178d
+timeCreated: 1447454525
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: nurbsCircle1
+    100002: pCircle1
+    100004: polySurface1
+    100006: polySurface10
+    100008: polySurface11
+    100010: polySurface12
+    100012: polySurface13
+    100014: polySurface13 1
+    100016: polySurface14
+    100018: polySurface15
+    100020: polySurface16
+    100022: polySurface17
+    100024: polySurface18
+    100026: polySurface19
+    100028: polySurface2
+    100030: polySurface20
+    100032: polySurface21
+    100034: polySurface22
+    100036: polySurface23
+    100038: polySurface24
+    100040: polySurface25
+    100042: polySurface26
+    100044: polySurface27
+    100046: polySurface28
+    100048: polySurface29
+    100050: polySurface3
+    100052: polySurface30
+    100054: polySurface31
+    100056: polySurface32
+    100058: polySurface33
+    100060: polySurface34
+    100062: polySurface4
+    100064: polySurface5
+    100066: polySurface6
+    100068: polySurface7
+    100070: polySurface8
+    100072: polySurface9
+    100074: //RootNode
+    100076: register:Mesh
+    100078: transform1
+    100080: transform10
+    100082: transform11
+    100084: transform12
+    100086: transform13
+    100088: transform14
+    100090: transform15
+    100092: transform16
+    100094: transform17
+    100096: transform18
+    100098: transform19
+    100100: transform2
+    100102: transform20
+    100104: transform21
+    100106: transform22
+    100108: transform23
+    100110: transform24
+    100112: transform25
+    100114: transform26
+    100116: transform27
+    100118: transform28
+    100120: transform29
+    100122: transform3
+    100124: transform30
+    100126: transform31
+    100128: transform32
+    100130: transform33
+    100132: transform34
+    100134: transform4
+    100136: transform5
+    100138: transform6
+    100140: transform7
+    100142: transform8
+    100144: transform9
+    400000: nurbsCircle1
+    400002: pCircle1
+    400004: polySurface1
+    400006: polySurface10
+    400008: polySurface11
+    400010: polySurface12
+    400012: polySurface13
+    400014: polySurface13 1
+    400016: polySurface14
+    400018: polySurface15
+    400020: polySurface16
+    400022: polySurface17
+    400024: polySurface18
+    400026: polySurface19
+    400028: polySurface2
+    400030: polySurface20
+    400032: polySurface21
+    400034: polySurface22
+    400036: polySurface23
+    400038: polySurface24
+    400040: polySurface25
+    400042: polySurface26
+    400044: polySurface27
+    400046: polySurface28
+    400048: polySurface29
+    400050: polySurface3
+    400052: polySurface30
+    400054: polySurface31
+    400056: polySurface32
+    400058: polySurface33
+    400060: polySurface34
+    400062: polySurface4
+    400064: polySurface5
+    400066: polySurface6
+    400068: polySurface7
+    400070: polySurface8
+    400072: polySurface9
+    400074: //RootNode
+    400076: register:Mesh
+    400078: transform1
+    400080: transform10
+    400082: transform11
+    400084: transform12
+    400086: transform13
+    400088: transform14
+    400090: transform15
+    400092: transform16
+    400094: transform17
+    400096: transform18
+    400098: transform19
+    400100: transform2
+    400102: transform20
+    400104: transform21
+    400106: transform22
+    400108: transform23
+    400110: transform24
+    400112: transform25
+    400114: transform26
+    400116: transform27
+    400118: transform28
+    400120: transform29
+    400122: transform3
+    400124: transform30
+    400126: transform31
+    400128: transform32
+    400130: transform33
+    400132: transform34
+    400134: transform4
+    400136: transform5
+    400138: transform6
+    400140: transform7
+    400142: transform8
+    400144: transform9
+    2300000: pCircle1
+    2300002: polySurface13
+    2300004: polySurface34
+    3300000: pCircle1
+    3300002: polySurface13
+    3300004: polySurface34
+    4300000: polySurface34
+    4300002: polySurface13
+    4300004: pCircle1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

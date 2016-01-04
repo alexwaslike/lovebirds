@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 2df1013dc7f34154986bd3e20239d6c9
+timeCreated: 1449134474
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: female_bird_bunny_group
+    100002: female_bird_bunny_joint1
+    100004: female_bird_bunny_joint2
+    100006: female_bird_bunny_joint3
+    100008: female_bird_bunny_joint4
+    100010: female_bird_bunny_joint5
+    100012: female_bird_bunny_joint6
+    100014: female_bird_bunny_joint7
+    100016: female_bird_bunny_joint8
+    100018: female_bird_bunny_pasted__polySurface10
+    100020: female_bird_bunny_pasted__transform2
+    100022: female_bird_bunny_polySurface34
+    100024: female_bird_bunny_polySurface5
+    100026: female_bird_bunny_transform1
+    100028: group
+    100030: pasted__polySurface10
+    100032: pasted__transform2
+    100034: pCube1
+    100036: pCube2
+    100038: pCube3
+    100040: polySurface29
+    100042: polySurface34
+    100044: polySurface39
+    100046: polySurface40
+    100048: polySurface5
+    100050: //RootNode
+    100052: sad_boy_group
+    100054: sad_boy_joint1
+    100056: sad_boy_joint2
+    100058: sad_boy_joint3
+    100060: sad_boy_joint4
+    100062: sad_boy_joint5
+    100064: sad_boy_joint6
+    100066: sad_boy_joint7
+    100068: sad_boy_pasted__polySurface10
+    100070: sad_boy_pasted__transform2
+    100072: sad_boy_polySurface29
+    100074: sad_boy_polySurface34
+    100076: sad_boy_polySurface34_ncl1_1
+    100078: sad_boy_polySurface39
+    100080: sad_boy_polySurface40
+    100082: sad_boy_polySurface5
+    100084: sad_boy_transform1
+    100086: sad_boy_transform2
+    100088: sad_boy_transform3
+    100090: sad_boy_transform4
+    100092: transform1
+    100094: transform2
+    100096: transform3
+    100098: transform4
+    100100: transform5
+    100102: transform6
+    400000: female_bird_bunny_group
+    400002: female_bird_bunny_joint1
+    400004: female_bird_bunny_joint2
+    400006: female_bird_bunny_joint3
+    400008: female_bird_bunny_joint4
+    400010: female_bird_bunny_joint5
+    400012: female_bird_bunny_joint6
+    400014: female_bird_bunny_joint7
+    400016: female_bird_bunny_joint8
+    400018: female_bird_bunny_pasted__polySurface10
+    400020: female_bird_bunny_pasted__transform2
+    400022: female_bird_bunny_polySurface34
+    400024: female_bird_bunny_polySurface5
+    400026: female_bird_bunny_transform1
+    400028: group
+    400030: pasted__polySurface10
+    400032: pasted__transform2
+    400034: pCube1
+    400036: pCube2
+    400038: pCube3
+    400040: polySurface29
+    400042: polySurface34
+    400044: polySurface39
+    400046: polySurface40
+    400048: polySurface5
+    400050: //RootNode
+    400052: sad_boy_group
+    400054: sad_boy_joint1
+    400056: sad_boy_joint2
+    400058: sad_boy_joint3
+    400060: sad_boy_joint4
+    400062: sad_boy_joint5
+    400064: sad_boy_joint6
+    400066: sad_boy_joint7
+    400068: sad_boy_pasted__polySurface10
+    400070: sad_boy_pasted__transform2
+    400072: sad_boy_polySurface29
+    400074: sad_boy_polySurface34
+    400076: sad_boy_polySurface34_ncl1_1
+    400078: sad_boy_polySurface39
+    400080: sad_boy_polySurface40
+    400082: sad_boy_polySurface5
+    400084: sad_boy_transform1
+    400086: sad_boy_transform2
+    400088: sad_boy_transform3
+    400090: sad_boy_transform4
+    400092: transform1
+    400094: transform2
+    400096: transform3
+    400098: transform4
+    400100: transform5
+    400102: transform6
+    2300000: pCube3
+    3300000: pCube3
+    4300000: female_bird_bunny_polySurface34
+    4300002: pCube3
+    4300004: sad_boy_polySurface34_ncl1_1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: female_bird_bunny_polySurface34
+    13700002: sad_boy_polySurface34_ncl1_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: RejectAnimationFinished
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: female_bird_bunny_group
+        weight: 1
+      - path: female_bird_bunny_group/female_bird_bunny_pasted__polySurface10
+        weight: 1
+      - path: female_bird_bunny_group/female_bird_bunny_pasted__polySurface10/female_bird_bunny_pasted__transform2
+        weight: 1
+      - path: female_bird_bunny_joint1
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint2
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint2/female_bird_bunny_joint3
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint4
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint4/female_bird_bunny_joint5
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint6
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint6/female_bird_bunny_joint7
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint8
+        weight: 1
+      - path: female_bird_bunny_polySurface5
+        weight: 1
+      - path: female_bird_bunny_polySurface5/female_bird_bunny_transform1
+        weight: 1
+      - path: female_bird_bunny_polySurface34
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__polySurface10
+        weight: 1
+      - path: group/pasted__polySurface10/pasted__transform2
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform6
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform5
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform1
+        weight: 1
+      - path: polySurface29
+        weight: 1
+      - path: polySurface29/polySurface34
+        weight: 1
+      - path: polySurface29/polySurface34/transform4
+        weight: 1
+      - path: polySurface29/polySurface39
+        weight: 1
+      - path: polySurface29/polySurface39/transform3
+        weight: 1
+      - path: polySurface29/polySurface40
+        weight: 1
+      - path: polySurface29/polySurface40/transform2
+        weight: 1
+      - path: sad_boy_group
+        weight: 1
+      - path: sad_boy_group/sad_boy_pasted__polySurface10
+        weight: 1
+      - path: sad_boy_group/sad_boy_pasted__polySurface10/sad_boy_pasted__transform2
+        weight: 1
+      - path: sad_boy_joint1
+        weight: 1
+      - path: sad_boy_joint1/sad_boy_joint2
+        weight: 1
+      - path: sad_boy_joint1/sad_boy_joint2/sad_boy_joint3
+        weight: 1
+      - path: sad_boy_joint1/sad_boy_joint4
+        weight: 1
+      - path: sad_boy_joint1/sad_boy_joint4/sad_boy_joint5
+        weight: 1
+      - path: sad_boy_joint1/sad_boy_joint6
+        weight: 1
+      - path: sad_boy_joint1/sad_boy_joint7
+        weight: 1
+      - path: sad_boy_polySurface5
+        weight: 1
+      - path: sad_boy_polySurface5/sad_boy_transform1
+        weight: 1
+      - path: sad_boy_polySurface29
+        weight: 1
+      - path: sad_boy_polySurface29/sad_boy_polySurface34
+        weight: 1
+      - path: sad_boy_polySurface29/sad_boy_polySurface34/sad_boy_transform4
+        weight: 1
+      - path: sad_boy_polySurface29/sad_boy_polySurface39
+        weight: 1
+      - path: sad_boy_polySurface29/sad_boy_polySurface39/sad_boy_transform3
+        weight: 1
+      - path: sad_boy_polySurface29/sad_boy_polySurface40
+        weight: 1
+      - path: sad_boy_polySurface29/sad_boy_polySurface40/sad_boy_transform2
+        weight: 1
+      - path: sad_boy_polySurface34_ncl1_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

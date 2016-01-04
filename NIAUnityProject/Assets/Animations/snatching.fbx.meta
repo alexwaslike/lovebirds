@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 78943dca7776f5d4ca38ccb556cee4bc
+timeCreated: 1449129335
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: base
+    100002: base1
+    100004: elbow1
+    100006: Female_bird_flower:polySurface1
+    100008: Index_knuckle
+    100010: Index_up1
+    100012: Index_up2
+    100014: Index_up3
+    100016: Middle_Knuckle
+    100018: Middle_up1
+    100020: Middle_up2
+    100022: Middle_up3
+    100024: nurbsCircle1
+    100026: nurbsCircle5
+    100028: nurbsCircle6
+    100030: pCube3
+    100032: pinky_knuckle
+    100034: Pinky_up1
+    100036: Pinky_up2
+    100038: Pinky_up3
+    100040: Pointer_knuckle
+    100042: Pointer_Up1
+    100044: Pointer_Up2
+    100046: Pointer_Up3
+    100048: //RootNode
+    100050: thumb_base
+    100052: thumb_tip
+    400000: base
+    400002: base1
+    400004: elbow1
+    400006: Female_bird_flower:polySurface1
+    400008: Index_knuckle
+    400010: Index_up1
+    400012: Index_up2
+    400014: Index_up3
+    400016: Middle_Knuckle
+    400018: Middle_up1
+    400020: Middle_up2
+    400022: Middle_up3
+    400024: nurbsCircle1
+    400026: nurbsCircle5
+    400028: nurbsCircle6
+    400030: pCube3
+    400032: pinky_knuckle
+    400034: Pinky_up1
+    400036: Pinky_up2
+    400038: Pinky_up3
+    400040: Pointer_knuckle
+    400042: Pointer_Up1
+    400044: Pointer_Up2
+    400046: Pointer_Up3
+    400048: //RootNode
+    400050: thumb_base
+    400052: thumb_tip
+    2300000: Female_bird_flower:polySurface1
+    3300000: Female_bird_flower:polySurface1
+    4300000: pCube3
+    4300002: Female_bird_flower:polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: BirdStolenAnimationFinished
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Female_bird_flower:polySurface1
+        weight: 1
+      - path: nurbsCircle6
+        weight: 1
+      - path: nurbsCircle6/base1
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/elbow1
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Index_knuckle
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Index_knuckle/Index_up1
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Index_knuckle/Index_up1/Index_up2
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Index_knuckle/Index_up1/Index_up2/Index_up3
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Middle_Knuckle
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Middle_Knuckle/Middle_up1
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Middle_Knuckle/Middle_up1/Middle_up2
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Middle_Knuckle/Middle_up1/Middle_up2/Middle_up3
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/pinky_knuckle
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/pinky_knuckle/Pinky_up1
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/pinky_knuckle/Pinky_up1/Pinky_up2
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/pinky_knuckle/Pinky_up1/Pinky_up2/Pinky_up3
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Pointer_knuckle
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Pointer_knuckle/Pointer_Up1
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Pointer_knuckle/Pointer_Up1/Pointer_Up2
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/Pointer_knuckle/Pointer_Up1/Pointer_Up2/Pointer_Up3
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/thumb_base
+        weight: 1
+      - path: nurbsCircle6/nurbsCircle5/nurbsCircle1/base/thumb_base/thumb_tip
+        weight: 1
+      - path: pCube3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

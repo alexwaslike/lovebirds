@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 7a365fbd1b8a6ec41bf3638edac40bce
+timeCreated: 1449114228
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: female_bird_bunny_group
+    100004: female_bird_bunny_joint1
+    100006: female_bird_bunny_joint2
+    100008: female_bird_bunny_joint3
+    100010: female_bird_bunny_joint4
+    100012: female_bird_bunny_joint5
+    100014: female_bird_bunny_joint6
+    100016: female_bird_bunny_joint7
+    100018: female_bird_bunny_joint8
+    100020: female_bird_bunny_pasted__polySurface10
+    100022: female_bird_bunny_pasted__transform2
+    100024: female_bird_bunny_polySurface34
+    100026: female_bird_bunny_polySurface5
+    100028: female_bird_bunny_transform1
+    100030: group
+    100032: joint1
+    100034: joint2
+    100036: joint3
+    100038: joint4
+    100040: joint5
+    100042: joint6
+    100044: joint7
+    100046: pasted__polySurface10
+    100048: pasted__transform2
+    100050: polySurface29
+    100052: polySurface34
+    100054: polySurface34_ncl1_1
+    100056: polySurface39
+    100058: polySurface40
+    100060: polySurface5
+    100062: transform1
+    100064: transform2
+    100066: transform3
+    100068: transform4
+    400000: //RootNode
+    400002: female_bird_bunny_group
+    400004: female_bird_bunny_joint1
+    400006: female_bird_bunny_joint2
+    400008: female_bird_bunny_joint3
+    400010: female_bird_bunny_joint4
+    400012: female_bird_bunny_joint5
+    400014: female_bird_bunny_joint6
+    400016: female_bird_bunny_joint7
+    400018: female_bird_bunny_joint8
+    400020: female_bird_bunny_pasted__polySurface10
+    400022: female_bird_bunny_pasted__transform2
+    400024: female_bird_bunny_polySurface34
+    400026: female_bird_bunny_polySurface5
+    400028: female_bird_bunny_transform1
+    400030: group
+    400032: joint1
+    400034: joint2
+    400036: joint3
+    400038: joint4
+    400040: joint5
+    400042: joint6
+    400044: joint7
+    400046: pasted__polySurface10
+    400048: pasted__transform2
+    400050: polySurface29
+    400052: polySurface34
+    400054: polySurface34_ncl1_1
+    400056: polySurface39
+    400058: polySurface40
+    400060: polySurface5
+    400062: transform1
+    400064: transform2
+    400066: transform3
+    400068: transform4
+    4300000: polySurface34_ncl1_1
+    4300002: female_bird_bunny_polySurface34
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: female_bird_bunny_polySurface34
+    13700002: polySurface34_ncl1_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: CuddleAnimationFinished
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: female_bird_bunny_group
+        weight: 1
+      - path: female_bird_bunny_group/female_bird_bunny_pasted__polySurface10
+        weight: 1
+      - path: female_bird_bunny_group/female_bird_bunny_pasted__polySurface10/female_bird_bunny_pasted__transform2
+        weight: 1
+      - path: female_bird_bunny_joint1
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint2
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint2/female_bird_bunny_joint3
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint4
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint4/female_bird_bunny_joint5
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint6
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint6/female_bird_bunny_joint7
+        weight: 1
+      - path: female_bird_bunny_joint1/female_bird_bunny_joint8
+        weight: 1
+      - path: female_bird_bunny_polySurface5
+        weight: 1
+      - path: female_bird_bunny_polySurface5/female_bird_bunny_transform1
+        weight: 1
+      - path: female_bird_bunny_polySurface34
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__polySurface10
+        weight: 1
+      - path: group/pasted__polySurface10/pasted__transform2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint4
+        weight: 1
+      - path: joint1/joint4/joint5
+        weight: 1
+      - path: joint1/joint6
+        weight: 1
+      - path: joint1/joint7
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform1
+        weight: 1
+      - path: polySurface29
+        weight: 1
+      - path: polySurface29/polySurface34
+        weight: 1
+      - path: polySurface29/polySurface34/transform4
+        weight: 1
+      - path: polySurface29/polySurface39
+        weight: 1
+      - path: polySurface29/polySurface39/transform3
+        weight: 1
+      - path: polySurface29/polySurface40
+        weight: 1
+      - path: polySurface29/polySurface40/transform2
+        weight: 1
+      - path: polySurface34_ncl1_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
